@@ -2,6 +2,8 @@ package edu.ccsu.cs505.payingparty;
 import  edu.ccsu.cs505.accounts.BankAccount;
 import  edu.ccsu.cs505.insufficientfunds.*;
 
+// Practice....
+
 /**
  * This class is used to process a check from the bank.
  *  
